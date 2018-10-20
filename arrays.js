@@ -4,3 +4,5 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
+var addElementToBeginningOfArray = [1, foo]
+addElementToBeginningOfArray.unshift('foo')
