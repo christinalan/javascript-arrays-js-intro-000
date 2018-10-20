@@ -5,4 +5,4 @@ var chocolateBars = [
   'skittles'
 ]
 var addElementToBeginningOfArray = [1, foo]
-addElementToBeginningOfArray.unshift('foo')
+const array = [1]
