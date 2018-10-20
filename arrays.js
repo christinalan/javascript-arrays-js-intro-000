@@ -4,5 +4,6 @@ var chocolateBars = [
   'kitkat',
   'skittles'
 ]
-var addElementToBeginningOfArray = [1, foo]
-const array = [1]
+var addElementToBeginningOfArray = ["array", "element"]
+['element', ...addElementToBeginningOfArray]
+]
